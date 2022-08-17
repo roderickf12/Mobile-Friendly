@@ -1,0 +1,7 @@
+Responsive web design
+
+  - block elements; will fill box all the way to width of the parent
+  - inline will only fill amount of space of whats typed in
+  -  inline block will fill to width of whatever we tell it, defaul to content
+
+
